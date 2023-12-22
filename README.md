@@ -2,7 +2,7 @@
 
 ## My Life : 
 
-<img align="right" alt="penguin" width="350" src="img/img1.gif" />
+<img align="right" alt="penguin" width="350" src="img/penguin-dance.gif" />
 
 ✉️ : "I am currently learning cybersecurity with the aim of making it my profession." 
 
